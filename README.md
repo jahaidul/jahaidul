@@ -1,18 +1,15 @@
 <div align="center">
-<img src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif" align="center" height="360" width="480" />
+<img src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif" align="center" height="" width="600" />
 </div>  
   
 
-### <div align="center">I'm Jahaidul Islam, A Data Science Aspirant 🚀</div>  
+## **<div align="center">Hi, I'm Jahaidul Islam, An Data Science Aspirant 🚀</div>**  
   
 
-- 🔭 I’m currently working on Banglalink As a DD Manager  
+- 🌱 I’m currently learning Python, Machine Learning, and Data Analytics.  
   
 
-- 🌱 I’m currently learning Data Science  
-  
-
-- ❓ Ask me about anything related to Python and SQL  
+- ❓ Ask me about anything related to Python  
   
 
 <br/>  
@@ -25,19 +22,7 @@
 
 ### Programming Language  
 <div align="center">  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Library  
-<div align="center">  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /></a>  
-<a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="75" /></a>  
 </div>
 
 </td><td valign="top" width="33%">
@@ -46,10 +31,12 @@
 
 ### Database  
 <div align="center">  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="75" /></a>  
 </div>
+
+</td><td valign="top" width="33%">
+
+
 
 </td></tr></table>  
 
@@ -58,20 +45,23 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/https://github.com/jahaidul" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/https://twitter.com/Zahid37754251" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jahaidul-islam358/" target="_blank">
+<a href="https://linkedin.com/in/jahaidul-islam358" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/12724247/jahaidul-islam" target="_blank">
+<a href="https://github.com/jahaidul" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://stackoverflow.com/users/12724247/jahaidul-islam" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>
-<a href="https://medium.com/https://medium.com/@jahaidul.islam358" target="_blank">
+<a href="https://medium.com/@jahaidul.islam358" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/Jahaidul35" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.kaggle.com/jahaidulislam" target="_blank">
+<img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
 </a>  
 </div>  
   
@@ -80,15 +70,20 @@
 
 
 ## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=jahaidul&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=jahaidul&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>  
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahaidul&hide_border=true&layout=compact" align="left" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahaidul&hide_border=true&layout=compact" align="left" style="width: 100%" />  
 
 <br/>  
 
 
 ## Recent Blog Posts  
-  
+
+
+### https://medium.com/@jahaidul.islam358/object-oriented-programming-oop-is-a-style-of-programming-characterized-by-the-identification-of-5664bdc07586  
+<!-- BLOG-POST-LIST:START -->  
+If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+<!-- BLOG-POST-LIST:END -->  
 
 <br/>  
 
@@ -103,7 +98,7 @@
 
 <br/>  
 
-
+<div align="center"></div>
 <br />
 
 ----
