@@ -78,12 +78,7 @@
 
 
 ## Recent Blog Posts  
-
-
-### https://medium.com/@jahaidul.islam358/object-oriented-programming-oop-is-a-style-of-programming-characterized-by-the-identification-of-5664bdc07586  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
+  
 
 <br/>  
 
