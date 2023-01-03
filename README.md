@@ -81,8 +81,12 @@
 <br/>
 
 ## Recent Blog Posts  
+  
+  ## Map Filter and Reduce
   https://medium.com/@jahaidul.islam358/map-filter-and-reduce-6e833a7737d3
   <br/>
+  
+  ## OOP
   https://medium.com/@jahaidul.islam358/object-oriented-programming-oop-is-a-style-of-programming-characterized-by-the-identification-of-5664bdc07586?postPublishedType=repub
 
 <br/>  
