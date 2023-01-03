@@ -76,12 +76,12 @@
 
 <br/>  
 
-## Githun Streak
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=jahaidul)](https://git.io/streak-stats)
 
 
 ## Recent Blog Posts  
-  
+  (https://github.com/jahaidul/Blog)
 
 <br/>  
 
