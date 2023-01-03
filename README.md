@@ -78,7 +78,7 @@
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=jahaidul)](https://git.io/streak-stats)
-
+<br/>
 
 ## Recent Blog Posts  
   (https://github.com/jahaidul/Blog)
