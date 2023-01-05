@@ -82,6 +82,11 @@
 
 ## Recent Blog Posts  
   
+  ## Python Programming
+  
+  https://medium.com/@jahaidul.islam358/python-programming-3faea734a055
+  <br/>
+  
   ## Map Filter and Reduce
   https://medium.com/@jahaidul.islam358/map-filter-and-reduce-6e833a7737d3
   <br/>
