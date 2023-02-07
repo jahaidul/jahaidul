@@ -80,7 +80,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=jahaidul)](https://git.io/streak-stats)
 <br/>
 
-https://github-profile-trophy.vercel.app/?username=jahaidul&theme=flat
+[![trophy](https://github-profile-trophy.vercel.app/?username=jahaidul)](https://github.com/jahaidul/github-profile-trophy)
 
 ## Recent Blog Posts  
   
