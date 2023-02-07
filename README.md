@@ -65,6 +65,9 @@
 </div>  
   
 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=jahaidul)](https://github.com/jahaidul/github-profile-trophy)
+
 <br/>  
 
 
@@ -78,12 +81,12 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=jahaidul)](https://git.io/streak-stats)
 <br/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=jahaidul)](https://github.com/jahaidul/github-profile-trophy)
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jahaidul&theme=vue)](https://github.com/jahaidul/github-readme-activity-graph)
 <br/>
 
 <p align="center"><i>“Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity.”</i></p>
 <p align="center"><i>- Aaron Swartz (2013 ~ 1986) -</i></p>
+
 
 ## Recent Blog Posts  
   
