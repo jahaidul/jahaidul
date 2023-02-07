@@ -3,8 +3,7 @@
 </div>  
   
 
-## **<div align="center">Hi, I'm Jahaidul Islam, An Data Science Aspirant 🚀</div>**  
-  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=34&pause=1000&color=1F7404&center=true&vCenter=true&width=442&height=54&lines=Hi%2C+I'm+Jahaidul+Islam;An+Data+Science+Aspirant+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 - 🌱 I’m currently learning Python, Machine Learning, and Data Analytics.  
   
@@ -71,9 +70,8 @@
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=jahaidul&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahaidul&hide_border=true&layout=compact" align="left" />  
-
+    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahaidul&hide=html,&hide_border=true&title_color=5391FE&text_color=555"
+  
 <br/>  
 
 
@@ -83,6 +81,9 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=jahaidul)](https://github.com/jahaidul/github-profile-trophy)
 
 <br/>
+
+<p align="center"><i>“Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity.”</i></p>
+<p align="center"><i>- Aaron Swartz (2013 ~ 1986) -</i></p>
 
 ## Recent Blog Posts  
   
