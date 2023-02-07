@@ -82,6 +82,9 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=jahaidul)](https://github.com/jahaidul/github-profile-trophy)
 
+<br/>
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
 ## Recent Blog Posts  
   
   ## Python Programming
