@@ -81,8 +81,10 @@
 
 ## Medium Blog
 
- - https://medium.com/@jahaidul.islam358/python-programming-3faea734a055
- - https://medium.com/@jahaidul.islam358/map-filter-and-reduce-6e833a7737d3
+
+ - [Python Programming | Guide for Beginners](https://medium.com/@jahaidul.islam358/python-programming-3faea734a055)
+ - [Mastering Data Structures and Algorithms |Guide for Beginners](https://medium.com/@jahaidul.islam358/mastering-data-structures-and-algorithms-a-guide-for-beginners-eb0a925bd16b)
+ - [Numpy |Guide for Beginners](https://medium.com/@jahaidul.islam358/numpy-d8bb2a0db564)
   <br/>
   
 <br/>  
