@@ -3,11 +3,10 @@
 </div>  
   
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=34&pause=1000&color=1F7404&center=true&vCenter=true&width=442&height=54&lines=Hi%2C+I'm+Jahaidul+Islam;An+Data+Science+Aspirant+%F0%9F%9A%80)](https://git.io/typing-svg)
+<h1 align="center">Hi 👋, I'm Jahaidul Islam</h1>
 
 - 🌱 I’m currently learning Python, Machine Learning, and Data Analytics.  
   
-
 - ❓ Ask me about anything related to Python  
   
 
@@ -71,15 +70,12 @@
   </br>
 <img src="https://github-readme-stats.vercel.app/api?username=jahaidul&show_icons=true" height="150"/>
 <img src="https://kaggle-card.chienhsiang-hung.eu.org/api/svg?jahaidulislam" alt="jahid's Kaggle Summary Card" height="150"/>&nbsp;
-<img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?  
-<br/>  
-
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=jahaidul)](https://git.io/streak-stats)
-<br/>
-
+                            
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jahaidul&theme=vue)](https://github.com/jahaidul/github-readme-activity-graph)
-<br/>
+
+                               <br/>
 
 
 
