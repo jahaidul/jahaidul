@@ -29,7 +29,15 @@ Experienced in Python Programming.
 
 <br/>  
 
-
+## **Projects** :
+  - Cryptocurrency Prices Dataset - [Dataset](https://www.kaggle.com/datasets/jahaidulislam/cryptocurrency-prices-dataset)
+  - Significant Earthquake Dataset | 1900-2023 - [Dataset](https://www.kaggle.com/datasets/jahaidulislam/significant-earthquake-dataset-1900-2023)
+  - FIFA World Cup All Match Dataset | 1930-2022 - [Dataset](https://www.kaggle.com/datasets/jahaidulislam/fifa-world-cup-1930-2022-all-match-dataset)
+  - World Happiness Report | 2005-2021 - [Dataset](https://www.kaggle.com/datasets/jahaidulislam/world-happiness-report-2005-2021)
+<p align=center>
+  </br>
+  
+---  
 ## Connect with me  
 <div align="center">
 <a href="https://linkedin.com/in/jahaidul-islam358" target="_blank">
@@ -53,16 +61,7 @@ Experienced in Python Programming.
 </div>  
 <br/>  
 
-
-## **Projects** :
-  - Cryptocurrency Prices Dataset - [Dataset](https://www.kaggle.com/datasets/jahaidulislam/cryptocurrency-prices-dataset)
-  - Significant Earthquake Dataset | 1900-2023 - [Dataset](https://www.kaggle.com/datasets/jahaidulislam/significant-earthquake-dataset-1900-2023)
-  - FIFA World Cup All Match Dataset | 1930-2022 - [Dataset](https://www.kaggle.com/datasets/jahaidulislam/fifa-world-cup-1930-2022-all-match-dataset)
-  - World Happiness Report | 2005-2021 - [Dataset](https://www.kaggle.com/datasets/jahaidulislam/world-happiness-report-2005-2021)
-<p align=center>
-  </br>
-  
----  
+---
 
 ## Github Stats
 <p align=center>
