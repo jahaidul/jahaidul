@@ -83,8 +83,8 @@
 
 
  - [Python Programming | Guide for Beginners](https://medium.com/@jahaidul.islam358/python-programming-3faea734a055)
- - [Mastering Data Structures and Algorithms |Guide for Beginners](https://medium.com/@jahaidul.islam358/mastering-data-structures-and-algorithms-a-guide-for-beginners-eb0a925bd16b)
- - [Numpy |Guide for Beginners](https://medium.com/@jahaidul.islam358/numpy-d8bb2a0db564)
+ - [Mastering Data Structures and Algorithms | Guide for Beginners](https://medium.com/@jahaidul.islam358/mastering-data-structures-and-algorithms-a-guide-for-beginners-eb0a925bd16b)
+ - [Numpy | Guide for Beginners](https://medium.com/@jahaidul.islam358/numpy-d8bb2a0db564)
   <br/>
   
 <br/>  
