@@ -72,9 +72,9 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=jahaidul&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahaidul&hide=html,&hide_border=true&title_color=5391FE&text_color=555"
-  
+<img src="https://github-readme-stats.vercel.app/api?username=jahaidul&show_icons=true" height="150"/>
+<img src="https://kaggle-card.chienhsiang-hung.eu.org/api/svg?jahaidulislam" alt="jahid's Kaggle Summary Card" height="150"/>&nbsp;
+    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?  
 <br/>  
 
 
