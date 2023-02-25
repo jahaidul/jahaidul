@@ -4,32 +4,21 @@
   
 
 <h1 align="center">Hi 👋, I'm Jahaidul Islam</h1>
+<h3 align="center">
+Learning Data Science & Machine Learning | Kaggle Dataset Expert </br> 
+Experienced in Python Programming.
+</h3>
 
-- 🌱 I’m currently learning Python, Machine Learning, and Data Analytics.  
-  
 - ❓ Ask me about anything related to Python  
-  
-
 <br/>  
 
+---
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-### Programming Language  
-<div align="center">  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="75" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Database  
-<div align="center">  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="75" /></a>  
+## **Skills** :
+- **Programming**: Python (Advanced).
+- **Web Scraping**: Requests, Selenium, Beautifulsoup4, Scrapy.
+- **DS & ML Tools (Python)** : NumPy, Pandas.
+---
 </div>
 
 </td><td valign="top" width="33%">
@@ -65,23 +54,26 @@
 <br/>  
 
 
-## Github Stats  
+## **Projects** :
+  - Cryptocurrency Prices Dataset - [Dataset](https://www.kaggle.com/datasets/jahaidulislam/cryptocurrency-prices-dataset)
+  - Significant Earthquake Dataset | 1900-2023 - [Dataset](https://www.kaggle.com/datasets/jahaidulislam/significant-earthquake-dataset-1900-2023)
+  - FIFA World Cup All Match Dataset | 1930-2022 - [Dataset](https://www.kaggle.com/datasets/jahaidulislam/fifa-world-cup-1930-2022-all-match-dataset)
+  - World Happiness Report | 2005-2021 - [Dataset](https://www.kaggle.com/datasets/jahaidulislam/world-happiness-report-2005-2021)
 <p align=center>
   </br>
-<img src="https://github-readme-stats.vercel.app/api?username=jahaidul&show_icons=true" height="150"/>
-<img src="https://kaggle-card.chienhsiang-hung.eu.org/api/svg?jahaidulislam" alt="jahid's Kaggle Summary Card" height="150"/>&nbsp;
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=jahaidul)](https://git.io/streak-stats)
-                            
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jahaidul&theme=vue)](https://github.com/jahaidul/github-readme-activity-graph)
-
-                               <br/>
-
-
-
+  
+## Github Stats
+<p align=center>
+<br/>
+<img src="https://kaggle-card.chienhsiang-hung.eu.org/api/svg?jahaidulislam" alt="jahid's Kaggle Summary Card" height="160"/>&nbsp;
+<img src="https://github-readme-stats.vercel.app/api?username=jahaidul&show_icons=true" height="160"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jahaidul"height="140"/>
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=jahaidul&bg_color=ffffff&color=000000&line=8d778c&point=4c4848&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph"height="140"/>
+</p>
+<br/>
+<p align=center>
+  
 ## Medium Blog
-
-
  - [Python Programming | Guide for Beginners](https://medium.com/@jahaidul.islam358/python-programming-3faea734a055)
  - [Mastering Data Structures and Algorithms | Guide for Beginners](https://medium.com/@jahaidul.islam358/mastering-data-structures-and-algorithms-a-guide-for-beginners-eb0a925bd16b)
  - [Numpy | Guide for Beginners](https://medium.com/@jahaidul.islam358/numpy-d8bb2a0db564)
