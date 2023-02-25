@@ -62,6 +62,8 @@ Experienced in Python Programming.
 <p align=center>
   </br>
   
+---  
+
 ## Github Stats
 <p align=center>
 <br/>
@@ -72,6 +74,8 @@ Experienced in Python Programming.
 </p>
 <br/>
 <p align=center>
+  
+---  
   
 ## Medium Blog
  - [Python Programming | Guide for Beginners](https://medium.com/@jahaidul.islam358/python-programming-3faea734a055)
