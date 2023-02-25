@@ -63,18 +63,15 @@
 <img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=jahaidul)](https://github.com/jahaidul/github-profile-trophy)
-
 <br/>  
 
 
 ## Github Stats  
+<p align=center>
+  </br>
 <img src="https://github-readme-stats.vercel.app/api?username=jahaidul&show_icons=true" height="150"/>
 <img src="https://kaggle-card.chienhsiang-hung.eu.org/api/svg?jahaidulislam" alt="jahid's Kaggle Summary Card" height="150"/>&nbsp;
-    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?  
+<img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?  
 <br/>  
 
 
@@ -84,34 +81,24 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jahaidul&theme=vue)](https://github.com/jahaidul/github-readme-activity-graph)
 <br/>
 
+
+
+## Medium Blog
+
+ - https://medium.com/@jahaidul.islam358/python-programming-3faea734a055
+ - https://medium.com/@jahaidul.islam358/map-filter-and-reduce-6e833a7737d3
+  <br/>
+  
+<br/>  
+
+
+</div>    
+
 <p align="center"><i>“Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity.”</i></p>
 <p align="center"><i>- Aaron Swartz </i></p>
-
-
-## Recent Blog Posts  
-  
-  ## Python Programming
-  
-  https://medium.com/@jahaidul.islam358/python-programming-3faea734a055
-  <br/>
-  
-  ## Map Filter and Reduce
-  https://medium.com/@jahaidul.islam358/map-filter-and-reduce-6e833a7737d3
-  <br/>
-  
-
-
-  
-
 <br/>  
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=jahaidul&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
 <div align="center"></div>
 <br />
 
