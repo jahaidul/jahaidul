@@ -34,6 +34,7 @@ Experienced in Python Programming.
   - Significant Earthquake Dataset | 1900-2023 - [Dataset](https://www.kaggle.com/datasets/jahaidulislam/significant-earthquake-dataset-1900-2023)
   - FIFA World Cup All Match Dataset | 1930-2022 - [Dataset](https://www.kaggle.com/datasets/jahaidulislam/fifa-world-cup-1930-2022-all-match-dataset)
   - World Happiness Report | 2005-2021 - [Dataset](https://www.kaggle.com/datasets/jahaidulislam/world-happiness-report-2005-2021)
+  - Car Specification Dataset | 1945-2020 - [Dataset](https://www.kaggle.com/datasets/jahaidulislam/car-specification-dataset-1945-2020)
 <p align=center>
   </br>
   
