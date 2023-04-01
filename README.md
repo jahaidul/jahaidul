@@ -67,7 +67,7 @@ Experienced in Python Programming.
 ## Github Stats
 <p align=center>
 <br/>
-<img src="https://kaggle-card.chienhsiang-hung.eu.org/api/svg?jahaidulislam" alt="jahid's Kaggle Summary Card" height="160"/>&nbsp;
+<img src="https://kaggle-card.chienhsiang-hung.eu.org/api/svg?jahaidulislam" alt="jahid's Kaggle Summary Card" height="170"/>&nbsp;
 <img src="https://github-readme-stats.vercel.app/api?username=jahaidul&show_icons=true" height="160"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jahaidul"height="140"/>
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=jahaidul&bg_color=ffffff&color=000000&line=8d778c&point=4c4848&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph"height="140"/>
